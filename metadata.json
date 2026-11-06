@@ -1,0 +1,8 @@
+{
+  "name": "FinPulse AI - Financial Advisor & Planning Suite",
+  "description": "An intelligent AI-powered financial advisor and planning suite that answers questions on budgeting, savings, debt payoff, investments, and financial goals with real-time NLP and interactive calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
